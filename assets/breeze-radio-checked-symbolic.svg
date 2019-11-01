@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 18 18"
+   sodipodi:docname="breeze-radio-checked-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="13.111111"
+     inkscape:cx="-4.6144069"
+     inkscape:cy="8.9999999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     id="path2"
+     class="warning"
+     d="M 16.5,9 A 7.5,7.5 0 0 1 9,16.5 7.5,7.5 0 0 1 1.5,9 7.5,7.5 0 0 1 9,1.5 7.5,7.5 0 0 1 16.5,9 Z"
+     fill="#f57900"
+     style="fill:#d88d00;fill-opacity:1" />
+  <path
+     id="path4"
+     class="error"
+     d="m 9.0000003,1 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 A 8,8 0 0 0 17,9 8,8 0 0 0 9.0000003,1 Z m 0,1 A 7,7 0 0 1 16,9 a 7,7 0 0 1 -6.9999997,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+     style="fill:#8f267c;fill-opacity:0.98039216"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path6"
+     class="error"
+     d="m 8.9237285,4 c -2.7614,0 -5,2.2386 -5,5 0,2.7614 2.2386,5 5,5 2.7614005,0 5.0000005,-2.2386 5.0000005,-5 0,-2.7614 -2.2386,-5 -5.0000005,-5 z"
+     dominant-baseline="auto"
+     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#8f267c;fill-opacity:1;stroke-width:3.99029994;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+     inkscape:connector-curvature="0" />
+</svg>
